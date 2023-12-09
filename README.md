@@ -1,6 +1,5 @@
 ## Olá eu sou Lucas Reali
- - 📖 estudante do ensino medio
- - 💻 desenvolvedor junior
+ - 💻 junior developer
 <div align="center">
 <div align="center">
   <a href="https://github.com/lucasreali">
