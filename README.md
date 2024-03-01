@@ -1,5 +1,4 @@
-## Olá eu sou Lucas Reali
- - 💻 junior developer
+## Olá, eu sou Lucas Reali
 <div align="center">
 <div align="center">
   <a href="https://github.com/lucasreali">
