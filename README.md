@@ -1,4 +1,4 @@
-## Olá, eu sou Lucas Reali,  estou inicinado na area de desenvolvedor front-end e estudante de engenharia de software
+## Olá, eu sou Lucas Reali,  estou inicinado na area de desenvolvedor e estudante de engenharia de software
 
 
 <div align="center">
