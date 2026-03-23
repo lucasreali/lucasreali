@@ -1,72 +1,61 @@
 <h1 align="center">Olá, eu sou Lucas Reali 👋</h1>
-<h3 align="center">Estudante de Engenharia de Software | Desenvolvedor Full Stack em formação</h3>
 
 <p align="center">
-  📍 Curitiba, PR &nbsp;|&nbsp;
-  🎓 Engenharia de Software – PUCPR (5º período) &nbsp;|&nbsp;
-  🚀 Buscando oportunidade de Estágio em TI
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6272A4&center=true&vCenter=true&width=435&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Buscando+est%C3%A1gio+em+TI" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:lucasrealioficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lucas-arthur-da-silva-reali-a055552b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/lucasreali06" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 🧑‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software na PUCPR e apaixonado por tecnologia e resolução de problemas. Tenho experiência prática com desenvolvimento back-end e front-end, boas práticas de versionamento e metodologias ágeis. Fui monitor da disciplina de Raciocínio Algorítmico, o que reforçou minha comunicação técnica e trabalho em equipe.
+- 🎓 Engenharia de Software na **PUCPR** – 5º período (conclusão: dez/2027)
+- 📌 Fui **Monitor de Raciocínio Algorítmico**, auxiliando alunos e produzindo materiais de estudo
+- 🚀 Buscando minha primeira oportunidade como **Estagiário de TI**
+- 💬 Comunicação clara, pensamento analítico e adaptabilidade são meus pontos fortes
+- 📍 Curitiba – PR
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias
 
-#### Back-end & Banco de Dados
-<div style="display: inline_block">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
-
-#### Front-end & UI
-<div style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-
-#### Ferramentas & Metodologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div>
-
-> Scrum • Kanban • MVC • RESTful API
+<p align="center">
+  <!-- Back-end -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <!-- Front-end -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <!-- Banco de dados -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="188em" src="https://github-readme-stats.vercel.app/api?username=lucasreali&show_icons=true&theme=onedark&include_all_commits=true&count_private=false"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasreali&layout=compact&langs_count=16&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasreali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasreali&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-### 🎓 Experiência Acadêmica
-
-- 📌 **Monitor – Raciocínio Algorítmico | PUCPR** *(fev/2024 – jun/2024)*
-  Suporte pedagógico aos alunos, esclarecimento de dúvidas, organização de materiais e elaboração de formulários de estudo.
-
----
-
-### 📬 Contato
-
 <div align="center">
-  <a href="mailto:lucasrealioficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-arthur-da-silva-reali-a055552b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lucasreali06" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasreali&theme=tokyonight&hide_border=true"/>
 </div>
