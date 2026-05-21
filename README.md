@@ -25,7 +25,7 @@
 
 ### 🛠️ Tecnologias
 
-<p align="center">
+<p align="left">
   <!-- Back-end -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -47,11 +47,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasreali&show_icons=true&theme=onedark&include_all_commits=true&count_private=false&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasreali&layout=compact&langs_count=8&theme=onedark&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasreali&theme=onedark&hide_border=true"/>
-</div>
