@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🎓 Engenharia de Software na **PUCPR** – 5º período (conclusão: dez/2027)
+- 🎓 Engenharia de Software na **PUCPR** – 6º período (conclusão: dez/2027)
 - 🚀 Buscando minha primeira oportunidade de **TI**
 - 💬 Comunicação clara, pensamento analítico e adaptabilidade são meus pontos fortes
 - 📍 Curitiba – PR
